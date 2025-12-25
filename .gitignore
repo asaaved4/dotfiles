@@ -1,0 +1,6 @@
+*.local
+*.env
+.cache/
+
+.local/
+.secrets/
